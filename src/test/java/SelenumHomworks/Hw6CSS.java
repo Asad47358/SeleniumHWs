@@ -16,17 +16,23 @@ public class Hw6CSS {
         UserID.sendKeys("Asad");
         WebElement UserName = driver.findElement(By.cssSelector("input#UserName"));
         UserName.sendKeys("Asad Ahmadzad");
-        WebElement IntrotoLecture = driver.findElement(By.xpath("//input[@data-starts='introCSSAdv']"));
+        WebElement IntrotoLecture = driver.findElement(By.cssSelector("input[name='LectureIntro']"));
         IntrotoLecture.sendKeys("ABC");
         WebElement Feedback  = driver.findElement(By.cssSelector("input#FeedbackFromRay"));
         Feedback .sendKeys("Good");
         WebElement Ducky = driver.findElement(By.cssSelector("input#FeedbackfromDucky"));
         Ducky.sendKeys("Very Good");
-        WebElement ClienD = driver.findElement(By.xpath("//input[@name='ClientID']"));
+        WebElement ClienD = driver.findElement(By.cssSelector("input[data-ends$='conclientID']"));
         ClienD.sendKeys("222A");
-        WebElement Email = driver.findElement(By.xpath("//input[@name='email']"));
+        WebElement Email = driver.findElement(By.cssSelector("input[name*='email']"));
         Email.sendKeys("AsadAhmadzad@gmail.com");
-        WebElement Course  = driver.findElement(By.xpath("//input[@name='CourseTopic']"));
+        WebElement Course  = driver.findElement(By.cssSelector("input[data-content^='CSS is an']"));
         Course .sendKeys("Selenium");
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        driver.close();
     }
 }
