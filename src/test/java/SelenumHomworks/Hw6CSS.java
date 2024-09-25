@@ -33,6 +33,6 @@ public class Hw6CSS {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        driver.close();
+
     }
 }

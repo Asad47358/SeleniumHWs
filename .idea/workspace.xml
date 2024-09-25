@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Asad47358"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Asad47358&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Asad47358/SeleniumHWs.git",
-    "accountId": "5ca2d5ae-2f67-40e2-8cea-13e860418f76"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Asad47358/SeleniumHWs.git&quot;,
+    &quot;accountId&quot;: &quot;5ca2d5ae-2f67-40e2-8cea-13e860418f76&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -49,18 +49,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Hw1.executor": "Run",
+    "Application.Hw10DropDownWithoutSelectTagAssignment.executor": "Run",
+    "Application.Hw11Alerts.executor": "Run",
+    "Application.Hw12Iframe.executor": "Run",
+    "Application.Hw13WindowHandles.executor": "Run",
     "Application.Hw3.executor": "Run",
     "Application.Hw4.executor": "Run",
     "Application.Hw5.executor": "Run",
     "Application.Hw6CSS.executor": "Run",
+    "Application.Hw7WebElementCommands.executor": "Run",
+    "Application.Hw8RadioButtons.executor": "Run",
+    "Application.Hw9CheckBoxes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Hw6CSS">
-    <configuration name="Hw1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw1" />
+  <component name="RunManager" selected="Application.Hw10DropDownSelectTag">
+    <configuration name="Hw10DropDownSelectTag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw10DropDownSelectTag" />
       <module name="SeleniumHwsProject" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw3" />
+    <configuration name="Hw13WindowHandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw13WindowHandles" />
       <module name="SeleniumHwsProject" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw4" />
+    <configuration name="Hw7WebElementCommands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw7WebElementCommands" />
       <module name="SeleniumHwsProject" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw5AdvanceXpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw5AdvanceXpath" />
+    <configuration name="Hw8RadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw8RadioButtons" />
       <module name="SeleniumHwsProject" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw6CSS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw6CSS" />
+    <configuration name="Hw9CheckBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw9CheckBoxes" />
       <module name="SeleniumHwsProject" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hw6CSS" />
-        <item itemvalue="Application.Hw5AdvanceXpath" />
-        <item itemvalue="Application.Hw4" />
-        <item itemvalue="Application.Hw3" />
-        <item itemvalue="Application.Hw1" />
+        <item itemvalue="Application.Hw10DropDownSelectTag" />
+        <item itemvalue="Application.Hw9CheckBoxes" />
+        <item itemvalue="Application.Hw8RadioButtons" />
+        <item itemvalue="Application.Hw7WebElementCommands" />
+        <item itemvalue="Application.Hw13WindowHandles" />
       </list>
     </recent_temporary>
   </component>
