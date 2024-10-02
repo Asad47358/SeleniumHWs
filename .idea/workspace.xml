@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1a028934-3930-49bc-884c-919bd1c192b5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SelenumHomworks/Hw6CSS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SelenumHomworks/Hw6CSS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +47,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DynamicTable.executor": "Run",
     "Application.Hw1.executor": "Run",
+    "Application.Hw10DropDownSelectTag.executor": "Run",
     "Application.Hw10DropDownWithoutSelectTagAssignment.executor": "Run",
     "Application.Hw11Alerts.executor": "Run",
     "Application.Hw12Iframe.executor": "Run",
     "Application.Hw13WindowHandles.executor": "Run",
+    "Application.Hw14ImplicitWait.executor": "Run",
+    "Application.Hw15ExplicitWait.executor": "Run",
+    "Application.Hw16StaticTable.executor": "Run",
+    "Application.Hw17DynamicTable.executor": "Run",
     "Application.Hw3.executor": "Run",
     "Application.Hw4.executor": "Run",
     "Application.Hw5.executor": "Run",
@@ -65,7 +70,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Hw10DropDownSelectTag">
+  <component name="RunManager" selected="Application.Hw17DynamicTable">
     <configuration name="Hw10DropDownSelectTag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw10DropDownSelectTag" />
       <module name="SeleniumHwsProject" />
@@ -79,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw13WindowHandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw13WindowHandles" />
+    <configuration name="Hw14ImplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw14ImplicitWait" />
       <module name="SeleniumHwsProject" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw7WebElementCommands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw7WebElementCommands" />
+    <configuration name="Hw15ExplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw15ExplicitWait" />
       <module name="SeleniumHwsProject" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw8RadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw8RadioButtons" />
+    <configuration name="Hw16StaticTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw16StaticTable" />
       <module name="SeleniumHwsProject" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw9CheckBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw9CheckBoxes" />
+    <configuration name="Hw17DynamicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw17DynamicTable" />
       <module name="SeleniumHwsProject" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hw17DynamicTable" />
+        <item itemvalue="Application.Hw16StaticTable" />
+        <item itemvalue="Application.Hw15ExplicitWait" />
+        <item itemvalue="Application.Hw14ImplicitWait" />
         <item itemvalue="Application.Hw10DropDownSelectTag" />
-        <item itemvalue="Application.Hw9CheckBoxes" />
-        <item itemvalue="Application.Hw8RadioButtons" />
-        <item itemvalue="Application.Hw7WebElementCommands" />
-        <item itemvalue="Application.Hw13WindowHandles" />
       </list>
     </recent_temporary>
   </component>
