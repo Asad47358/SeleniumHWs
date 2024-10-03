@@ -58,6 +58,7 @@
     "Application.Hw15ExplicitWait.executor": "Run",
     "Application.Hw16StaticTable.executor": "Run",
     "Application.Hw17DynamicTable.executor": "Run",
+    "Application.Hw18CalendarWithNavigation.executor": "Run",
     "Application.Hw3.executor": "Run",
     "Application.Hw4.executor": "Run",
     "Application.Hw5.executor": "Run",
@@ -70,20 +71,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Hw17DynamicTable">
-    <configuration name="Hw10DropDownSelectTag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw10DropDownSelectTag" />
-      <module name="SeleniumHwsProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SelenumHomworks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Hw18CalendarWithNavigation">
     <configuration name="Hw14ImplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw14ImplicitWait" />
       <module name="SeleniumHwsProject" />
@@ -136,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Hw18CalendarWithNavigation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelenumHomworks.Hw18CalendarWithNavigation" />
+      <module name="SeleniumHwsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SelenumHomworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hw18CalendarWithNavigation" />
         <item itemvalue="Application.Hw17DynamicTable" />
         <item itemvalue="Application.Hw16StaticTable" />
         <item itemvalue="Application.Hw15ExplicitWait" />
         <item itemvalue="Application.Hw14ImplicitWait" />
-        <item itemvalue="Application.Hw10DropDownSelectTag" />
       </list>
     </recent_temporary>
   </component>
